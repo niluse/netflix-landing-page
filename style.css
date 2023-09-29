@@ -17,7 +17,7 @@ body{
 }
 main {
     color: white;
-    text-align: center;
+    /* text-align: center; */
     height: 10vh;
     border: 2px solid red;
 }
