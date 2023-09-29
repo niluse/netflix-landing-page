@@ -14,13 +14,16 @@ body{
     width: 93vw;
     height: 97vh;
     margin: 10px auto;
-}
-main {
     color: white;
-    /* text-align: center; */
-    height: 10vh;
-    border: 2px solid red;
 }
-main h1, main p{
+
+h1, p{
     text-align: center;
+    font-family: 'Kanit', sans-serif;
+}
+form{
+    border: 4px solid yellow;
+    width: 20rem;
+    margin: auto;
+    background-color: rgba(0, 0, 0, 0.7);
 }
